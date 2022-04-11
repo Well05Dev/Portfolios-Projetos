@@ -74,4 +74,4 @@ if (dia >= 19) and (mes == "fevereiro"):
 elif (dia <= 20) and (mes == "março"):
     print("Seu signo é peixes")
     
-print("pf nao seja desocupado saia dos signos")
+print(";)")
