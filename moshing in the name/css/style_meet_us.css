@@ -1,0 +1,45 @@
+
+
+#botao1:hover{
+    font-weight: bold;
+    
+}
+#botao2:hover{
+    font-weight: bold;
+    
+}
+#botao3:hover{
+    font-weight: bold;
+    
+}
+#botao4:hover{
+    font-weight: bold;
+    
+}
+#botao5:hover{
+    font-weight: bold;
+    
+}
+#botao6:hover{
+    font-weight: bold;
+    
+}
+#img{
+    
+    filter: grayscale(100%);
+}
+#img:hover{
+
+    filter: blur(5px);
+
+}
+#sbg1{
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    font-family: Special Elite,sans-serif;
+}
+#sbg2{
+    color: white;
+    font-family: 'Exo', sans-serif;
+}

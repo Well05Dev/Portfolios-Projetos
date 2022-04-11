@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+.main{
+    background-color: #fff;
+}
+#botao1:hover{
+    font-weight: bold;
+    
+}
+#botao2:hover{
+    font-weight: bold;
+    
+}
+#botao3:hover{
+    font-weight: bold;
+    
+}
+#botao4:hover{
+    font-weight: bold;
+    
+}
+#botao5:hover{
+    font-weight: bold;
+    
+}
+#botao6:hover{
+    font-weight: bold;
+    
+}
+.carousel-item{
+    height: 32rem;
+    
+}
+.card-img-top{
+    margin-top: 3rem;
+    height: 5rem;
+    width: 4rem;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
+}
+.descricao{
+    color: rgb(12, 8, 8);
+    margin: 13rem 5rem 0 0 ;
+    margin-right: 4rem;
+    position: absolute;
+    font-family: "Exo", sans-serif;
+    font-size: 2rem;
+}
+.descricao img{
+    border-radius: 6%;
+}
+.foto_do_texto{
+    float: right;
+    margin-right: 5rem;
+    margin-top: 1.5rem;
+    height: 350px;
+}
+.banner{
+    margin-top: 10rem;
+}
+
+.card-img-top{
+    position: absolute;
+    margin-top: 5rem;
+    width: 16rem;
+    height: 14rem;
+    box-shadow:inset 0 0 1em rgb(163, 163, 163), 0 0 1em rgb(51, 49, 49);
+}
+.card-img-top:hover{
+    box-shadow: none;
+}
+.imagem_back{
+    margin-top: 20rem;
+    width: 100%;
+    height: 40rem;
+}
+.caixa{
+    width: 100%;
+    height: 5rem;
+    background-color: #111;
+}
+.noticias{
+    position: absolute;
+    margin-top: 33rem ;
+    margin-left: 13rem;
+    padding: 1.8rem;
+    color: #fff;
+    width: 25rem;
+    height: 20rem;
+    border-radius: 10%;
+    font-family: "Special Elite", sans-serif;
+    box-shadow:inset 0 0 0 rgb(247, 247, 247), 0 0 2em rgb(51, 49, 49);
+    background-color: #111;
+}
+.manchete_noticias{
+    font-size: 2rem;
+}
+.bloco_de_texto{
+    font-family: "Exo", sans-serif;
+    font-size: 1rem;
+}
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+	}
+a:hover {
+    text-decoration: underline;
+	font-size:150%;
+    color: white;
+	}
+.imagem_do_banner img{
+    position: absolute;
+    margin: 30rem 0 0 40rem ;
+    width: 35rem;
+}

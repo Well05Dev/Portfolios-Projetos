@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+.main{
+    background-color: #fff;
+}
+#botao1:hover{
+    font-weight: bold;
+    
+}
+#botao2:hover{
+    font-weight: bold;
+    
+}
+#botao3:hover{
+    font-weight: bold;
+    
+}
+#botao4:hover{
+    font-weight: bold;
+    
+}
+#botao5:hover{
+    font-weight: bold;
+    
+}
+#botao6:hover{
+    font-weight: bold;
+    
+}
+.carousel-item{
+    height: 32rem;
+    
+}
+.card-img-top{
+    margin-top: 3rem;
+    height: 5rem;
+    width: 4rem;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 200px;
+}
+.descricao{
+    margin: 7rem 4rem 0 0 ;
+    margin-right: 4rem;
+    position: absolute;
+    font-family: "Exo", sans-serif;
+    font-size: 1.7rem;
+}
+.foto_do_texto{
+    float: right;
+    height: 380px;
+}
+.imagem_banner{
+    position: absolute;
+    margin: 25rem 0 0 7rem!important;
+    width: 800px;
+    height: 400px;
+}
+.footer{
+    margin: 100rem 0 0 0;
+}
+.noticias{
+    position: absolute;
+    margin: 35rem 0 0 60rem;
+    
+}
+.bloco_de_texto{
+    position: absolute;
+    
+}
